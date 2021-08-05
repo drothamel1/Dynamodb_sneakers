@@ -6,6 +6,10 @@ For this project, we are going to create a DynamoDB table within Amazaon AWS and
 
 This is a very simple table, but you can use the code as a basis for creating more elaborate or detailed DynamoDB tables
 
+## Why?
+
+There are many use cases for the creation of a DynamoDB table. DynamoDB is one of the core services of AWS and has a wide range of uses in applications. This project is a great way to get your feet wet and begin understanding how DynamoDB table creation works at a larger scale.
+
 ## Objectives
 
 1. Create a Dynamodb table for my sneakers that has a partition key of the "Name of the brand" 
