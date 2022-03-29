@@ -19,6 +19,3 @@ with open("sneakerdata.json") as json_file:
                'model': model,
             }
         )
-
-#this is a comment
-
